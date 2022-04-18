@@ -28,7 +28,7 @@
             <ul>
                 <li><a href="index.html">Home</a></li>
                 <li><a href="customers.html">View All Customers</a></li>
-                <li><a href="moneyTransanction.php">Money Transanction</a></li>
+                <li><a href="moneyTransaction.php" class="active">Money Transanction</a></li>
                 <li><a href="contact.html">Contact Us</a></li>
                 <li><a href="about.html">About Us</a></li>
                 <li><a href="help.html">Help</a></li>

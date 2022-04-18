@@ -58,12 +58,7 @@ h1{
 .navbar li a:hover{
     color: teal;
 }
-.navbar li a:visited{
-    color: gray;
-}
-.navbar li a .active{
-    color: red;
-}
+
 
 
 .left-sec .animate__fadeInLeftBig{
@@ -76,7 +71,7 @@ h1{
     animation-duration: 3s;
     color: white;
     font-family: 'Ubuntu', sans-serif;
-    animation-delay: 3s;
+    /* animation-delay: 3s; */
 }
 
 .mainHeader{
@@ -131,7 +126,6 @@ h1{
     text-align: center;
     padding: 40px;
     margin: 30px;
-    font-size: 50px;
 }
 
 /* styling for contact.html */
@@ -231,7 +225,6 @@ h1{
 }
 
 .active{
-    color: green;
-    background-color: wheat;
+    color: gray;
 }
 
